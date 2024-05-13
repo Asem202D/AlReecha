@@ -1,7 +1,7 @@
 # AlReecha
-Admin info in project: 
+Admin info (
 username: ```20210``` 
-password: ```123```
+password: ```123```)
 ---
 |use ||
 |---|---|
